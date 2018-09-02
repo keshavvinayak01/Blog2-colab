@@ -1,4 +1,4 @@
 Django==2.1
-mikasa
+misaka
 django-bootstrap3
 django-braces
