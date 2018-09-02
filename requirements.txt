@@ -1,0 +1,4 @@
+Django==2.1
+mikasa
+django-bootstrap3
+django-braces
